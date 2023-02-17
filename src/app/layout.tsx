@@ -5,6 +5,12 @@ export default function RootLayout({
 }: {
   children: React.ReactNode
 }) {
+  /**TODO: Configure the main app layout for the app example --> Header, Body, Footer**/
+  /**TODO: The responsive design for mobile and web can be written here for the main layout**/
+
+
+  /** TODO: Layout Page different for each **/
+
   return (
     <html lang="en">
       {/*

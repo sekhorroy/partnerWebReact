@@ -18,6 +18,22 @@
     "next": "13.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "typescript": "4.9.5"
+    "typescript": "4.9.5",
+    "@voltmoney/component": "^0.0.26",
+    "@voltmoney/schema": "^0.0.27",
+    "@voltmoney/theme": "^0.0.27",
+    "@voltmoney/types": "^1.0.21"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-export-namespace-from": "^7.18.9",
+    "@babel/plugin-proposal-nullish-coalescing-operator": "^7.18.6",
+    "babel-loader": "^8.2.5",
+    "babel-plugin-module-resolver": "^4.1.0",
+    "babel-plugin-react-native-web": "^0.18.9",
+    "html-webpack-plugin": "^5.5.0",
+    "json-loader": "^0.5.7",
+    "source-map-loader": "^4.0.1",
+    "ts-loader": "^9.4.1",
+    "url-loader": "^4.1.1"
   }
 }
